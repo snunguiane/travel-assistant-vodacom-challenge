@@ -20,7 +20,7 @@ A aplicação oferece suporte multilíngue para atender a um público global.
   - **Previsão do Tempo**: Previsão meteorológica atualizada.
   - **Taxas de Câmbio**: Informações sobre as taxas de câmbio.
 - **Autenticação de Usuários**: Registro e login de usuários.
-- **Suporte Multilíngue**: Suporte para português, inglês e francês, com português como idioma padrão.
+- **Suporte Multilíngue**: Suporte para português, inglês e francês, com inglês como idioma padrão.
 - **Elementos Interativos**: Mapas interativos para visualizar a localização da cidade.
 - **Dados Históricos**: Comparação de dados históricos de população e PIB para os últimos 10 anos.
 
