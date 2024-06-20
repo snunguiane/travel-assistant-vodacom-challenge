@@ -34,4 +34,4 @@ A aplicação oferece suporte multilíngue para atender a um público global.
 
 1. **Redis Server**: Deve estar instalado e em execução.
 2. **MongoDB**: Deve estar instalado e em execução.
-3. **Certificados SSL**: Aplique o certificado no ficheiro "server.crt" como confiável em sua máquina ou navegador, ou gere seu próprio certificado e atualize-o no projeto.
+3. **Certificados SSL**: Aplique o certificado no ficheiro "server.crt" como confiável em sua máquina ou navegador, ou gere seu próprio certificado e atualize-o no projecto.
