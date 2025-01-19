@@ -1,37 +1,36 @@
 # Travel Assistant
 
-## Desafio Vodacom
 
-### Desenvolvedor: Shen Francisco Nunguiane
-### Data: 18 de Junho de 2024
+### Developer: Shen Francisco Nunguiane
+### Date: June 18, 2024
 
 ---
 
-## Descrição
+## Description
 
-O Travel Assistant é uma aplicação web que permite aos usuários pesquisar informações detalhadas sobre cidades de destino, incluindo população, PIB per capita, previsão do tempo e taxas de câmbio. 
-A aplicação oferece suporte multilíngue para atender a um público global.
+Travel Assistant is a web application that allows users to search for detailed information about destination cities, including population, GDP per capita, weather forecasts, and exchange rates.  
+The application offers multilingual support to serve a global audience.
 
-## Funcionalidades
+## Features
 
-- **Pesquisa de Destino**: Permite aos usuários buscar informações detalhadas sobre uma cidade específica.
-- **Informações Detalhadas**:
-  - **População e PIB**: Dados populacionais e PIB per capita da cidade.
-  - **Previsão do Tempo**: Previsão meteorológica atualizada.
-  - **Taxas de Câmbio**: Informações sobre as taxas de câmbio.
-- **Autenticação de Usuários**: Registro e login de usuários.
-- **Suporte Multilíngue**: Suporte para português, inglês e francês, com inglês como idioma padrão.
-- **Elementos Interativos**: Mapas interativos para visualizar a localização da cidade.
-- **Dados Históricos**: Comparação de dados históricos de população e PIB para os últimos 10 anos.
+- **Destination Search**: Allows users to search for detailed information about a specific city.  
+- **Detailed Information**:  
+  - **Population and GDP**: Population data and the city's GDP per capita.  
+  - **Weather Forecast**: Up-to-date weather information.  
+  - **Exchange Rates**: Information about currency exchange rates.  
+- **User Authentication**: User registration and login.  
+- **Multilingual Support**: Support for Portuguese, English, and French, with English as the default language.  
+- **Interactive Elements**: Interactive maps to visualize the city's location.  
+- **Historical Data**: Comparison of historical population and GDP data for the last 10 years.
 
-## APIs Utilizadas
+## APIs Used
 
-- **OpenWeatherMap**: Fornece a previsão do tempo para a cidade pesquisada.
-- **ExchangeRatesAPI**: Fornece as taxas de câmbio atualizadas.
-- **World Bank API**: Fornece dados de população e PIB per capita para a cidade pesquisada.
+- **OpenWeatherMap**: Provides weather forecasts for the searched city.  
+- **ExchangeRatesAPI**: Provides updated currency exchange rates.  
+- **World Bank API**: Provides population and GDP per capita data for the searched city.
 
-## Requisitos para executar o Projecto
+## Requirements to Run the Project
 
-1. **Redis Server**: Deve estar instalado e em execução.
-2. **MongoDB**: Deve estar instalado e em execução.
-3. **Certificados SSL**: Aplique o certificado no ficheiro "server.crt" como confiável em sua máquina ou navegador, ou gere seu próprio certificado e atualize-o no projecto.
+1. **Redis Server**: Must be installed and running.  
+2. **MongoDB**: Must be installed and running.  
+3. **SSL Certificates**: Apply the certificate in the "server.crt" file as trusted on your machine or browser, or generate your own certificate and update it in the project.
